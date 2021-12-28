@@ -1,0 +1,5 @@
+- 👋 Hi, We’re @aPerfectPolygon
+- 👀 We’re interested in creative reactive applications
+- 🌱 We’re currently learning creating SmartHome
+- 💞️ We’re looking to collaborate on Internet of Things
+- 📫 How to reach me https://instagram.com/aPerfectPolygon
